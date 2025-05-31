@@ -1,0 +1,11 @@
+title: "Lecture Notes"
+description: "lecture notes by oralcoder"
+theme: minima
+baseurl: "/lecture_notes"
+url: "https://oralcoder.github.io"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    line_numbers: true
